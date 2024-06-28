@@ -2,7 +2,7 @@
   "name": "countries-catalog-vue",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://website2050.github.io/countries-catalog-vue/",
+  "homepage": "https://website2050.github.io/countries-catalog/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
